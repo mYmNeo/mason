@@ -1,0 +1,1 @@
+{"schema_version":"1.1","primary_source":{"release":"jq-1.6","type":"github_release_file","repo":"stedolan\/jq","file":"https:\/\/github.com\/stedolan\/jq\/releases\/download\/jq-1.6\/jq-osx-amd64"},"name":"jq","links":{"bin":{"jq":"jq"},"share":{},"opt":{}},"metrics":{"start_time":1677937926116,"completion_time":1677937930172},"secondary_sources":[]}

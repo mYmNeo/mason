@@ -1,0 +1,1 @@
+{"schema_version":"1.1","primary_source":{"package":"golang.org\/x\/tools\/gopls","type":"go"},"name":"gopls","links":{"bin":{"gopls":"gopls"},"share":{},"opt":{}},"metrics":{"start_time":1677937682053,"completion_time":1677937686279},"secondary_sources":[]}

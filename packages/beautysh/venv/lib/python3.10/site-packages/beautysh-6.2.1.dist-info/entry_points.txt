@@ -1,0 +1,3 @@
+[console_scripts]
+beautysh=beautysh:main
+
